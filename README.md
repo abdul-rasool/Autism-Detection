@@ -1,6 +1,6 @@
 # Autism-Detection
 
-Exploring Autism Detection and Classification through Eye-Tracking Scanpath and AI-based Models: Challenges and Insights 
+## Exploring Autism Detection and Classification through Eye-Tracking Scanpath and AI-based Models: Challenges and Insights 
 
 The aim of these experiments is to learn and identify the future gaps in ASD classification using machine and deep learning. The following benchmark datasets are employed for the model training and validations. 
 \
